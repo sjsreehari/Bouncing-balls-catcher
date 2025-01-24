@@ -9,6 +9,12 @@ This project is a fun interactive game where balls bounce around the screen, and
 - Fully responsive and adjusts to the screen size.
 - Customizable settings for the number of balls, ball colors, and cursor radius.
 
+## Live Demo
+
+You can play the game live on GitHub Pages! Click the link below to try out the game:
+
+[Play Bouncing Balls Catcher](https://sjsreehari.github.io/Bouncing-balls-catcher/)
+
 ## Endless Gameplay
 
 ### How it Works
@@ -71,6 +77,7 @@ Change the value of `cursorRadius` in `script.js`:
 let cursorRadius = 30;
 ```
 Set it to your desired cursor size.
+
 
 ## License
 Feel free to use and modify this project for personal or educational purposes.
