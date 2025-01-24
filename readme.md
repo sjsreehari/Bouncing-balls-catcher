@@ -42,11 +42,11 @@ Feel free to try to catch as many balls as possible and challenge your friends t
 ## Screenshots
 
 ###Game Screen
-![Initial Game Screen](images\GameInitial.png)
+![Initial Game Screen](images/GameInitial.png)
 
 
 ### Total Caught Display
-![Total Caught Display](images\gameplay.png)
+![Total Caught Display](images/gameplay.png)
 
 ## Customization
 
