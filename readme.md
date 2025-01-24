@@ -41,7 +41,8 @@ Feel free to try to catch as many balls as possible and challenge your friends t
 
 ## Screenshots
 
-###Game Screen
+### Game Screen
+
 ![Initial Game Screen](images/GameInitial.png)
 
 
